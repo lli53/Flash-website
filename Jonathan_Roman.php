@@ -1,6 +1,7 @@
 <?php include "include/html-top.php"; ?>
 <body>
 	<?php include "include/nav.php"; ?>
+
 	<div class="ui raised very padded text container segment">
 	<h1>JONATHAN ROMAN</h1>
 
@@ -46,9 +47,15 @@
 		</p>
 
 	</div>
-	</div>
-	<script type="text/javascript" src="scripts/nav.js">
 
-	</script>
+	</div>
+
+
+	<footer>
+
+		 Jonathan Roman 2018 | <a href="http://www.csc174.org/assignment01/jroman8/"> See my initial website! </a>
+		
+	<footer>
+
 </body>
 </html>

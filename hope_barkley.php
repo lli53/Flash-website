@@ -68,7 +68,9 @@
 
 
 	<footer>
-		<div class="hi"> Hope Barkley 2018 </div>
+			 
+		Hope Barkley 2018 | <a href="http://www.csc174.org/assignment01/hbarkley/"> See my initial website! <a>
+		
 	</footer>
 
 	<script type="text/javascript" src="scripts/nav.js">
