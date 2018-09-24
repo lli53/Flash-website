@@ -56,7 +56,7 @@
 
 
 	<footer>
-		s
+		
 		 Julia myers 2018 | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/"> See my initial website! </a>
 	
 	<footer>
